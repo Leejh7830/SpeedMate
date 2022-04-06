@@ -1,0 +1,16 @@
+C:\Users\Lee\source\repos\c#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Lee\source\repos\c#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Lee\source\repos\c#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Lee\source\repos\c#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\CxFlatUI.dll
+C:\Users\Lee\source\repos\c#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\MaterialSkin.dll
+C:\Users\Lee\source\repos\c#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SunnyUI.Common.dll
+C:\Users\Lee\source\repos\c#\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\SunnyUI.dll
+C:\Users\Lee\source\repos\c#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Lee\source\repos\c#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.MainForm.resources
+C:\Users\Lee\source\repos\c#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Lee\source\repos\c#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Lee\source\repos\c#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CopyComplete
+C:\Users\Lee\source\repos\c#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Lee\source\repos\c#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Lee\source\repos\c#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.UI.custFixAddUI.resources
+C:\Users\Lee\source\repos\c#\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
